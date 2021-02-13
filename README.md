@@ -1,9 +1,9 @@
-# handyman-react
+# handyman website
 forntend of Handyman api 
 ### Handyman API Documentation: 
 [Go to Handyman documentation ](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
-# Handyman website for home services and maintenance
-# Handyman website features:
+## Handyman website for home services and maintenance
+## Handyman website features:
 1. website authentication
     1. customer registrations
     2. activation account using gamil
