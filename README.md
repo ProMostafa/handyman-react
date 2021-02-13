@@ -3,7 +3,7 @@ forntend of Handyman api
 ### Handyman API Documentation: 
 [Go to Handyman documentation ](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
 ## Handyman website for home services and maintenance:
-[Go to Handyman ](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
+[Go to Handyman website ](http://handymancompany.pythonanywhere.com/swagger/ "Live demo")
 ## Handyman website features:
 1. website authentication
     1. customer registrations
